@@ -1,6 +1,6 @@
 # kcpserver一键安装脚本
 
-kcpserver的一键安装，学习使用，在https://github.com/clangcn/kcp-server基础之上的shell脚本
+kcpserver的一键安装，学习使用，在https://github.com/clangcn/kcp-server 基础之上的shell脚本
 
 ## Getting Started
 

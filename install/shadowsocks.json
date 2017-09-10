@@ -1,0 +1,7 @@
+{
+   "server":"128.199.209.133",
+   "server_port":8389,
+   "password":"tang1bo",
+   "timeout":600,
+   "method":"aes-256-cfb"
+}
